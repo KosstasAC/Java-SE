@@ -7,5 +7,6 @@ public class Casting {
        
         System.out.println((double) a/b);
         System.out.println((long) a/b);
+	System.out.println("Hola, mundo.");
     }
 }
